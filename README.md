@@ -17,5 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0011-container-with-most-water) |
 | [0051-n-queens](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0051-n-queens) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
