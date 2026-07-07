@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0022-generate-parentheses) |
 ## Backtracking
 |  |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0011-container-with-most-water) |
 ## Greedy
 |  |
