@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
