@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0141-linked-list-cycle) |
 | [3731-find-missing-elements](https://github.com/princesingour2907-cmd/Leetcode/tree/master/3731-find-missing-elements) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0063-unique-paths-ii) |
 ## Sorting
 |  |
