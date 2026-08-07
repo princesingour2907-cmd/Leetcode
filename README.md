@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0070-climbing-stairs) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/princesingour2907-cmd/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Memoization
 |  |
 | ------- |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/princesingour2907-cmd/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
