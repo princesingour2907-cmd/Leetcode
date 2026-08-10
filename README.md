@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0058-length-of-last-word) |
+| [0091-decode-ways](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0091-decode-ways) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Backtracking
