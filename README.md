@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Backtracking
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0198-house-robber](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0416-partition-equal-subset-sum](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [3731-find-missing-elements](https://github.com/princesingour2907-cmd/Leetcode/tree/master/3731-find-missing-elements) |
@@ -138,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
