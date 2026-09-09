@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/princesingour2907-cmd/Leetcode/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/princesingour2907-cmd/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3731-find-missing-elements](https://github.com/princesingour2907-cmd/Leetcode/tree/master/3731-find-missing-elements) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
