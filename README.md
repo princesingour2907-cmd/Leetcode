@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0904-fruit-into-baskets](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0904-fruit-into-baskets](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [3731-find-missing-elements](https://github.com/princesingour2907-cmd/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
