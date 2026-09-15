@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1004-max-consecutive-ones-iii](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/princesingour2907-cmd/Leetcode/tree/master/2786-visit-array-positions-to-maximize-score) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Knapsack Problem
 |  |
@@ -196,5 +198,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
