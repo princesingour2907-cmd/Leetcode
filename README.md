@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0091-decode-ways) |
+| [0120-triangle](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0322-coin-change) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0120-triangle](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0322-coin-change) |
