@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/princesingour2907-cmd/Leetcode/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/princesingour2907-cmd/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Backtracking
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/princesingour2907-cmd/Leetcode/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/princesingour2907-cmd/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Sorting
 |  |
 | ------- |
