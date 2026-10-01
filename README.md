@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/princesingour2907-cmd/Leetcode/tree/master/2786-visit-array-positions-to-maximize-score) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0931-minimum-falling-path-sum](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/princesingour2907-cmd/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Sorting
 |  |
