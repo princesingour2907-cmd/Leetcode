@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0091-decode-ways) |
 | [0424-longest-repeating-character-replacement](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0424-longest-repeating-character-replacement](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/princesingour2907-cmd/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
